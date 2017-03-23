@@ -1,0 +1,5 @@
+# Amazon MWS
+-e git+ssh://git@github.com/sfroth/python-amazon-mws.git@37491d3dca5d157946a6c84d1f8b847dbbfefe7b#egg=python_amazon_mws  # Amazon Web Services
+
+# jsonfield
+-e git+ssh://git@github.com/sfroth/django-jsonfield.git@a5949393835bf6ae6b073c041441b028fa56aa85#egg=django_jsonfield  # JSON DB field support for saving random info for payment methods, etc.
